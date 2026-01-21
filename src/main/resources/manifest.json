@@ -1,0 +1,21 @@
+{
+  "Group": "dev.ruinbound",
+  "Name": "Ruinbound",
+  "Main": "com.ruinbound.Ruinbound",
+  "Version": "1.1.0",
+  "Description": "Hytale dungeon mod",
+  "Authors": [
+    {
+      "Name": "Ruinbound",
+      "Email": "youremail@gmail.com",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}

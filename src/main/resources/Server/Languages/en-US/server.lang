@@ -1,0 +1,3 @@
+items.Test_Block.name = TestBlock
+items.Test_Sword.name = TestSword
+ruinbound.commands.ruinbound.desc = Test command for Ruinbound
