@@ -34,7 +34,7 @@ public final class Ruinbound extends JavaPlugin
 
         exportPrefabIfMissing(PREFAB_FILE, RESOURCE_PATH);
 
-        dungeonRoomWorldgen = new DungeonRoomWorldgen("yor_dungeon_room.prefab.json", 50, 3);
+        dungeonRoomWorldgen = new DungeonRoomWorldgen("yor_dungeon_room.prefab.json", 10, 3);
 
         getEventRegistry().registerGlobal(ChunkPreLoadProcessEvent.class, dungeonRoomWorldgen::onChunkPreLoad);
 
